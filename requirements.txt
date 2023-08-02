@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pandas
+sqlalchemy==1.4.47
+pymysql
+mysqlclient
+PublicDataReader
+xmltodict
